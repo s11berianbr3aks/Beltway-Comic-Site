@@ -1,0 +1,69 @@
+#title {
+    text-align: center;
+    font-size:42pt;
+}
+#subtitle {
+    text-align: center;
+    font-size:24pt; 
+}
+
+#body{
+    background-color: grey;
+    color: goldenrod;
+}
+
+#startBtn {
+    background-color: #4CAF50;
+    color: white;
+    border:none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;    
+    margin: 4px 2px;
+    border-radius: 25px;
+
+}
+
+#homeBtn {
+    background-color: #4CAFF0;
+    color: white;
+    border:none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;    
+    margin: 4px 2px;
+    border-radius: 25px;
+
+}
+
+#PriorPgBtn {
+    background-color: #4CAF50;
+    color: white;
+    border:none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;    
+    margin: 4px 2px;
+    border-radius: 25px;
+
+}
+
+#NextPgBtn {
+    background-color: #4CAF50;
+    color: white;
+    border:none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;    
+    margin: 4px 2px;
+    border-radius: 25px;
+
+}
